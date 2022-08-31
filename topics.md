@@ -14,14 +14,12 @@
 - [data-structures](#data-structures)
 - [go](#go)
 - [golang](#golang)
-- [good-first-issue](#good-first-issue)
 - [hacktoberfest](#hacktoberfest)
 - [java](#java)
 - [javascript](#javascript)
 - [language](#language)
 - [others](#others)
 - [python](#python)
-- [ruby](#ruby)
 - [rust](#rust)
 
 ## algorithm 
@@ -66,10 +64,6 @@
 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
-## good-first-issue 
-
-- [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source p
-
 ## hacktoberfest 
 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -86,7 +80,6 @@
 - [luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode) - Play Leetcode with different programming language
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source p
 
 ## language 
 
@@ -94,18 +87,13 @@
 
 ## others 
 
-- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
-- [lighthousand/books](https://github.com/lighthousand/books) - book list
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
+- [lighthousand/books](https://github.com/lighthousand/books) - book list
 
 ## python 
 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-
-## ruby 
-
-- [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source p
 
 ## rust 
 
