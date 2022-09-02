@@ -15,7 +15,6 @@
 - [luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode) - Play Leetcode with different programming language
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [lighthousand/books](https://github.com/lighthousand/books) - book list
-- [CS-Aditya-Rawat/450-Important-Interview-Question-all-languages-](https://github.com/CS-Aditya-Rawat/450-Important-Interview-Question-all-languages-) - This repo contain 450 questions which generally ask in every Interview. Feel free to Contribute
 
 ## Java 
 
