@@ -67,7 +67,6 @@
 ## hacktoberfest 
 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [CS-Aditya-Rawat/450-Important-Interview-Question-all-languages-](https://github.com/CS-Aditya-Rawat/450-Important-Interview-Question-all-languages-) - This repo contain 450 questions which generally ask in every Interview. Feel free to Contribute
 
 ## java 
 
