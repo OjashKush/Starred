@@ -6,6 +6,7 @@
 ## Contents
 
 - [C++](#c++)
+- [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Others](#others)
@@ -15,6 +16,10 @@
 - [luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode) - Play Leetcode with different programming language
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [lighthousand/books](https://github.com/lighthousand/books) - book list
+
+## Go 
+
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
 ## Java 
 
