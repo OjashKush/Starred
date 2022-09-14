@@ -12,15 +12,18 @@
 - [compiler](#compiler)
 - [cpp](#cpp)
 - [data-structures](#data-structures)
+- [deep-learning](#deep-learning)
 - [go](#go)
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [java](#java)
 - [javascript](#javascript)
 - [language](#language)
+- [machine-learning](#machine-learning)
 - [others](#others)
 - [python](#python)
 - [rust](#rust)
+- [scikit-learn](#scikit-learn)
 
 ## algorithm 
 
@@ -58,6 +61,10 @@
 - [mrpkdeveloper/450-DSA-Questions](https://github.com/mrpkdeveloper/450-DSA-Questions) - 450- DSA Questions 🔥🔥
 - [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.
 
+## deep-learning 
+
+- [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
+
 ## go 
 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -89,6 +96,10 @@
 
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 
+## machine-learning 
+
+- [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
+
 ## others 
 
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
@@ -97,11 +108,16 @@
 
 ## python 
 
+- [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## rust 
 
 - [luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode) - Play Leetcode with different programming language
+
+## scikit-learn 
+
+- [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 
 
 ## License
