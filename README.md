@@ -10,6 +10,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Others](#others)
+- [Rust](#rust)
 
 ## C++ 
 
@@ -39,6 +40,10 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## Rust 
+
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 
 ## License
