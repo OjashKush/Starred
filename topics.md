@@ -22,6 +22,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [language](#language)
+- [linux](#linux)
 - [machine-learning](#machine-learning)
 - [others](#others)
 - [python](#python)
@@ -116,6 +117,10 @@
 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+
+## linux 
+
+- [closebox73/Scorpio](https://github.com/closebox73/Scorpio) - A Conky themes pack
 
 ## machine-learning 
 
