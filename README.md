@@ -10,6 +10,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Lua](#lua)
 - [Others](#others)
 - [Rust](#rust)
 
@@ -35,6 +36,10 @@
 ## Jupyter Notebook 
 
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
+
+## Lua 
+
+- [closebox73/Scorpio](https://github.com/closebox73/Scorpio) - A Conky themes pack
 
 ## Others 
 
