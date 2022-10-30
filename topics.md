@@ -16,12 +16,14 @@
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
+- [documentation](#documentation)
 - [go](#go)
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [java](#java)
 - [javascript](#javascript)
 - [language](#language)
+- [learning](#learning)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [others](#others)
@@ -85,6 +87,10 @@
 
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 
+## documentation 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+
 ## go 
 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -117,6 +123,10 @@
 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+
+## learning 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
 ## linux 
 
