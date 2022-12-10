@@ -11,6 +11,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
@@ -41,6 +42,10 @@
 ## Lua 
 
 - [closebox73/Scorpio](https://github.com/closebox73/Scorpio) - A Conky themes pack
+
+## Makefile 
+
+- [nbeaver/why-linux-is-better](https://github.com/nbeaver/why-linux-is-better) - Objective reasons to prefer Linux to Windows.
 
 ## Others 
 
