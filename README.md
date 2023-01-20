@@ -49,6 +49,7 @@
 
 ## Others 
 
+- [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our "Django - The Practical Guide" course (https://acad.link/django)
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [jondot/rust-how-do-i-start](https://github.com/jondot/rust-how-do-i-start) - Hand curated advice and pointers for getting started with Rust
