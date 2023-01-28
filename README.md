@@ -44,6 +44,7 @@
 
 ## Others 
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our "Django - The Practical Guide" course (https://acad.link/django)
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
