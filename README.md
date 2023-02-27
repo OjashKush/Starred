@@ -14,6 +14,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
+- [TypeScript](#typescript)
 
 ## C++ 
 
@@ -72,6 +73,10 @@
 ## Rust 
 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+## TypeScript 
+
+- [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 
 
 ## License
