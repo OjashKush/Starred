@@ -42,6 +42,7 @@
 - [scikit-learn](#scikit-learn)
 - [security](#security)
 - [software](#software)
+- [typescript](#typescript)
 - [windows](#windows)
 
 ## ai 
@@ -235,6 +236,10 @@
 ## software 
 
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
+
+## typescript 
+
+- [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 
 ## windows 
 
