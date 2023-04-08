@@ -22,6 +22,7 @@
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
 - [documentation](#documentation)
+- [education](#education)
 - [go](#go)
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
@@ -133,6 +134,10 @@
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+
+## education 
+
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## go 
 
