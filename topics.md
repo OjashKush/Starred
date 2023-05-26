@@ -198,6 +198,8 @@
 
 ## others 
 
+- [satyamrs00/pizza](https://github.com/satyamrs00/pizza) - Online website for a pizza place
+- [krishnaik06/6-Months-Data-Science-Roadmap-](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-) - 
 - [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our "Django - The Practical Guide" course (https://acad.link/django)
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [nbeaver/why-linux-is-better](https://github.com/nbeaver/why-linux-is-better) - Objective reasons to prefer Linux to Windows.
