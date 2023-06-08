@@ -198,6 +198,7 @@
 
 ## others 
 
+- [niklasadams/explainable_concept_drift_pm](https://github.com/niklasadams/explainable_concept_drift_pm) - 
 - [satyamrs00/pizza](https://github.com/satyamrs00/pizza) - Online interface for a pizza outlet
 - [krishnaik06/6-Months-Data-Science-Roadmap-](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-) - 
 - [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our "Django - The Practical Guide" course (https://acad.link/django)
