@@ -65,6 +65,7 @@
 
 ## Python 
 
+- [niklasadams/explainable_concept_drift_pm](https://github.com/niklasadams/explainable_concept_drift_pm) - 
 - [satyamrs00/pizza](https://github.com/satyamrs00/pizza) - Online interface for a pizza outlet
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
