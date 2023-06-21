@@ -198,6 +198,7 @@
 
 ## others 
 
+- [bptlab/bpi-challenge-2020](https://github.com/bptlab/bpi-challenge-2020) - The purpose of this repository is to maintain code and text produced to analyze this year's BPI Challenge.
 - [niklasadams/explainable_concept_drift_pm](https://github.com/niklasadams/explainable_concept_drift_pm) - 
 - [satyamrs00/pizza](https://github.com/satyamrs00/pizza) - Online interface for a pizza outlet
 - [krishnaik06/6-Months-Data-Science-Roadmap-](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-) - 
