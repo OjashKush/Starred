@@ -37,6 +37,7 @@
 
 ## Jupyter Notebook 
 
+- [bptlab/bpi-challenge-2020](https://github.com/bptlab/bpi-challenge-2020) - The purpose of this repository is to maintain code and text produced to analyze this year's BPI Challenge.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 
 ## Makefile 
