@@ -66,6 +66,7 @@
 
 ## Python 
 
+- [blablahaha/concept-drift](https://github.com/blablahaha/concept-drift) - Algorithms for detecting changes from a data stream.
 - [niklasadams/explainable_concept_drift_pm](https://github.com/niklasadams/explainable_concept_drift_pm) - 
 - [satyamrs00/pizza](https://github.com/satyamrs00/pizza) - Online interface for a pizza outlet
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
