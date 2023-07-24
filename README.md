@@ -29,7 +29,7 @@
 ## Java 
 
 - [mrpkdeveloper/450-DSA-Questions](https://github.com/mrpkdeveloper/450-DSA-Questions) - 450- DSA Questions 🔥🔥
-- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.
+- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms + interview preparation bootcamp of WeMakeDevs.
 
 ## JavaScript 
 
