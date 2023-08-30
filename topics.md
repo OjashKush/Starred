@@ -205,6 +205,7 @@
 
 ## others 
 
+- [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 - [blablahaha/concept-drift](https://github.com/blablahaha/concept-drift) - Algorithms for detecting changes from a data stream.
 - [bptlab/bpi-challenge-2020](https://github.com/bptlab/bpi-challenge-2020) - The purpose of this repository is to maintain code and text produced to analyze this year's BPI Challenge.
 - [niklasadams/explainable_concept_drift_pm](https://github.com/niklasadams/explainable_concept_drift_pm) - 
