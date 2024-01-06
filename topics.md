@@ -218,6 +218,7 @@
 
 ## others 
 
+- [ayurmitram/ayurmitram-web](https://github.com/ayurmitram/ayurmitram-web) - 
 - [Its-Tanay/add2kart](https://github.com/Its-Tanay/add2kart) - A responsive fashion shopping website built with ReactJS, featuring an intuitive cart, efficient state management, and seamless user experience.
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 - [OjashKush/concept_drift_detect](https://github.com/OjashKush/concept_drift_detect) - A novel framework for detecting concept drift in process mining, addressing the challenges of adapting business processes to changing environments.
