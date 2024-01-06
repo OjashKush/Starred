@@ -33,6 +33,7 @@
 
 ## JavaScript 
 
+- [ayurmitram/ayurmitram-web](https://github.com/ayurmitram/ayurmitram-web) - 
 - [Its-Tanay/add2kart](https://github.com/Its-Tanay/add2kart) - A responsive fashion shopping website built with ReactJS, featuring an intuitive cart, efficient state management, and seamless user experience.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
