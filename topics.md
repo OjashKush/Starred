@@ -198,7 +198,6 @@
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-- [closebox73/Scorpio](https://github.com/closebox73/Scorpio) - A Conky themes pack
 
 ## machine-learning 
 
