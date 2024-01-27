@@ -46,6 +46,7 @@
 - [security](#security)
 - [software](#software)
 - [typescript](#typescript)
+- [web-development](#web-development)
 - [windows](#windows)
 
 ## ai 
@@ -272,6 +273,10 @@
 ## typescript 
 
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
+
+## web-development 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## windows 
 
