@@ -35,6 +35,7 @@
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [natural-language-processing](#natural-language-processing)
 - [open-source](#open-source)
 - [others](#others)
 - [programming](#programming)
@@ -211,6 +212,10 @@
 ## macos 
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## natural-language-processing 
+
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 
 ## open-source 
 
