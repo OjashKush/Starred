@@ -227,6 +227,7 @@
 
 ## others 
 
+- [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [ayurmitram/ayurmitram-web](https://github.com/ayurmitram/ayurmitram-web) - 
 - [Its-Tanay/add2kart](https://github.com/Its-Tanay/add2kart) - A responsive fashion shopping website built with ReactJS, featuring an intuitive cart, efficient state management, and seamless user experience.
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
