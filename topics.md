@@ -14,6 +14,7 @@
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
 - [c](#c)
+- [chatgpt](#chatgpt)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -41,6 +42,7 @@
 - [others](#others)
 - [programming](#programming)
 - [python](#python)
+- [pytorch](#pytorch)
 - [react](#react)
 - [robotics](#robotics)
 - [rust](#rust)
@@ -97,6 +99,10 @@
 ## c 
 
 - [luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode) - Play Leetcode with different programming language
+
+## chatgpt 
+
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 
 ## compiler 
 
@@ -204,11 +210,13 @@
 ## llm 
 
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 
 ## machine-learning 
 
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [firmai/data-science-career](https://github.com/firmai/data-science-career) - Career Resources for Data Science, Machine Learning, Big Data and Business Analytics Career Repository
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -253,6 +261,10 @@
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## pytorch 
+
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 
 ## react 
 
