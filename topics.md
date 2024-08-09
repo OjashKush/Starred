@@ -235,6 +235,7 @@
 
 ## others 
 
+- [a-r-r-o-w/kanformer](https://github.com/a-r-r-o-w/kanformer) - Naively combining transformers and Kolmogorov-Arnold Networks to learn and experiment
 - [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [ayurmitram/ayurmitram-web](https://github.com/ayurmitram/ayurmitram-web) - 
 - [Its-Tanay/add2kart](https://github.com/Its-Tanay/add2kart) - A responsive fashion shopping website built with ReactJS, featuring an intuitive cart, efficient state management, and seamless user experience.
