@@ -44,6 +44,7 @@
 - [python](#python)
 - [pytorch](#pytorch)
 - [react](#react)
+- [reinforcement-learning](#reinforcement-learning)
 - [robotics](#robotics)
 - [rust](#rust)
 - [scikit-learn](#scikit-learn)
@@ -270,6 +271,10 @@
 ## react 
 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+
+## reinforcement-learning 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## robotics 
 
