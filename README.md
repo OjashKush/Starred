@@ -74,13 +74,14 @@
 
 ## Python 
 
+- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
 - [a-r-r-o-w/kanformer](https://github.com/a-r-r-o-w/kanformer) - Naively combining transformers and Kolmogorov-Arnold Networks to learn and experiment
 - [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [OjashKush/concept_drift_detect](https://github.com/OjashKush/concept_drift_detect) - A novel framework for detecting concept drift in process mining, addressing the challenges of adapting business processes to changing environments.
 - [blablahaha/concept-drift](https://github.com/blablahaha/concept-drift) - Algorithms for detecting changes from a data stream.
 - [niklasadams/explainable_concept_drift_pm](https://github.com/niklasadams/explainable_concept_drift_pm) - 
 - [satyamrs00/pizza](https://github.com/satyamrs00/pizza) - Online interface for a pizza outlet
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
