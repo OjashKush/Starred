@@ -78,7 +78,7 @@
 
 ## automation 
 
-- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
+- [AIHawk-app/Auto_Jobs_Applier](https://github.com/AIHawk-app/Auto_Jobs_Applier) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 ## awesome 
 
@@ -107,7 +107,7 @@
 
 ## bot 
 
-- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
+- [AIHawk-app/Auto_Jobs_Applier](https://github.com/AIHawk-app/Auto_Jobs_Applier) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 ## c 
 
@@ -115,12 +115,12 @@
 
 ## chatgpt 
 
-- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
+- [AIHawk-app/Auto_Jobs_Applier](https://github.com/AIHawk-app/Auto_Jobs_Applier) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 
 ## chrome 
 
-- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
+- [AIHawk-app/Auto_Jobs_Applier](https://github.com/AIHawk-app/Auto_Jobs_Applier) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 ## compiler 
 
@@ -278,7 +278,7 @@
 
 ## python 
 
-- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
+- [AIHawk-app/Auto_Jobs_Applier](https://github.com/AIHawk-app/Auto_Jobs_Applier) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -286,7 +286,7 @@
 
 ## python3 
 
-- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
+- [AIHawk-app/Auto_Jobs_Applier](https://github.com/AIHawk-app/Auto_Jobs_Applier) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 ## pytorch 
 
