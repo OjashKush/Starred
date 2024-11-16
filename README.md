@@ -74,7 +74,7 @@
 
 ## Python 
 
-- [AIHawk-co/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-co/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
 - [a-r-r-o-w/kanformer](https://github.com/a-r-r-o-w/kanformer) - Naively combining transformers and Kolmogorov-Arnold Networks to learn and experiment
 - [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [OjashKush/concept_drift_detect](https://github.com/OjashKush/concept_drift_detect) - A novel framework for detecting concept drift in process mining, addressing the challenges of adapting business processes to changing environments.
