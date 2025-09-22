@@ -45,6 +45,7 @@
 - [open-source](#open-source)
 - [others](#others)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [python](#python)
 - [pytorch](#pytorch)
 - [react](#react)
@@ -281,6 +282,11 @@
 ## programming 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+## programming-language 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 
 ## python 
 
