@@ -50,6 +50,7 @@
 - [programming-language](#programming-language)
 - [python](#python)
 - [pytorch](#pytorch)
+- [rag](#rag)
 - [react](#react)
 - [reinforcement-learning](#reinforcement-learning)
 - [robotics](#robotics)
@@ -310,6 +311,10 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## pytorch 
+
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
+
+## rag 
 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 
