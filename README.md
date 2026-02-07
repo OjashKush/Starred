@@ -41,7 +41,6 @@
 ## JavaScript 
 
 - [ayurmitram/ayurmitram-web](https://github.com/ayurmitram/ayurmitram-web) - 
-- [Its-Tanay/add2kart](https://github.com/Its-Tanay/add2kart) - A mock shopping web app based on React and Redux.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 ## Jupyter Notebook 
