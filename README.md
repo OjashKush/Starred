@@ -60,6 +60,7 @@
 ## Others 
 
 - [llmgenai/LLMInterviewQuestions](https://github.com/llmgenai/LLMInterviewQuestions) - This repository contains LLM (Large language model) interview question asked in top companies like Google, Nvidia , Meta , Microsoft & fortune 500 companies.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application toolkit in Python: generate a resume and cover letter tailored to each job posting, and drive a stealth browser from any AI client over MCP.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 - [firmai/data-science-career](https://github.com/firmai/data-science-career) - Career Resources for Data Science, Machine Learning, Big Data and Business Analytics Career Repository
@@ -77,7 +78,6 @@
 
 ## Python 
 
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: browser automation and web scraping to read job postings, then auto-apply with a tailored resume and cover letter for each posting.
 - [a-r-r-o-w/kanformer](https://github.com/a-r-r-o-w/kanformer) - Naively combining transformers and Kolmogorov-Arnold Networks to learn and experiment
 - [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [OjashKush/concept_drift_detect](https://github.com/OjashKush/concept_drift_detect) - A novel framework for detecting concept drift in process mining, addressing the challenges of adapting business processes to changing environments.
