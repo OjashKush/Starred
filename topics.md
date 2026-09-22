@@ -287,7 +287,7 @@
 
 ## productivity 
 
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.
+- [feder-cr/aihawk_mcp_server](https://github.com/feder-cr/aihawk_mcp_server) - Anti-detect agentic browser: undetected browsing, browser automation, MCP server, AI web browsing agent, computer use, scraping, lead generation. No captchas.
 
 ## programming 
 
