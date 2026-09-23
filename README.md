@@ -77,7 +77,7 @@
 
 ## Python 
 
-- [feder-cr/aihawk_mcp_server](https://github.com/feder-cr/aihawk_mcp_server) - Anti-detect agentic browser: undetected browsing, browser automation, MCP server, AI web browsing agent, computer use, scraping, lead generation. No captchas.
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.
 - [a-r-r-o-w/kanformer](https://github.com/a-r-r-o-w/kanformer) - Naively combining transformers and Kolmogorov-Arnold Networks to learn and experiment
 - [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 - [OjashKush/concept_drift_detect](https://github.com/OjashKush/concept_drift_detect) - A novel framework for detecting concept drift in process mining, addressing the challenges of adapting business processes to changing environments.
