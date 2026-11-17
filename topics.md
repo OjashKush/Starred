@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -63,6 +64,10 @@
 - [typescript](#typescript)
 - [web-development](#web-development)
 - [windows](#windows)
+
+## agentic-ai 
+
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep.
 
 ## agents 
 
